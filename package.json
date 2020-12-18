@@ -1,0 +1,42 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo-google-fonts/manrope": "^0.1.0",
+    "@gorhom/bottom-sheet": "^1.4.1",
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-navigation/native": "^5.8.10",
+    "@react-navigation/stack": "^5.1.1",
+    "expo": "~39.0.2",
+    "expo-status-bar": "~1.0.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.4.tar.gz",
+    "react-native-gesture-handler": "~1.7.0",
+    "react-native-reanimated": "~1.13.0",
+    "react-native-redash": "^16.0.4",
+    "react-native-responsive-screen": "^1.4.1",
+    "react-native-safe-area-context": "3.1.4",
+    "react-native-screens": "~2.10.1",
+    "react-native-shared-element": "0.7.0",
+    "react-native-svg": "12.1.0",
+    "react-native-svg-transformer": "^0.14.3",
+    "react-native-swipe-gestures": "^1.0.5",
+    "react-native-web": "~0.13.12",
+    "react-navigation": "^4.4.3",
+    "react-navigation-shared-element": "next",
+    "react-navigation-stack": "2",
+    "reanimated-bottom-sheet": "^1.0.0-alpha.22",
+    "rn-sliding-up-panel": "^2.4.4"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.0"
+  },
+  "private": true
+}
